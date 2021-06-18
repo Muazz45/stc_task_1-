@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.font{
+    font-family: 'Montserrat', sans-serif;
+    color: cornsilk;
+}
+body{
+    background-color: #00b4d8;
+    background-image: url("./Img2.jpg");
+}
+.heading{
+    font-size: 6vw;
+}
+.main{
+    font-size: 2vw;
+}
+.division{
+    height: 100px;
+    width: 100VW;
+    background-image: url(./Img2.jpg);
+    background-attachment: scroll;
+}
+.padding{
+    padding-left:10vw;
+    padding-top:5vh;
+    padding-bottom: 5vh;
+    padding-right:10vw;
+}
+.name{
+    font-size: 8vw;
+    display: inline-block;
+}
+.photo{
+    display: inline-block;
+}
